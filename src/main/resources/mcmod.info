@@ -1,0 +1,16 @@
+[
+{
+  "modid": "littleamiya",
+  "name": "Little Amiya Mod",
+  "description": "Little Amiya Mod.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude"],
+  "credits": "More real rabbit",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
